@@ -1,4 +1,3 @@
-## DIA 1 - Inicio projeto - 23/05/25
 # Aplicação em Django - projeto Alura
 
 ## Instalar pacotes (terminal)
@@ -15,7 +14,7 @@
   - criar um arquivo .txt e manter atualizado com os requerimentos: pip freeze > requirements.txt
 - visualizar comandos django: django-admin help
 - iniciar um projeto em django: django-admin startproject setup .
-  - boa pratica: nomear arquivo como "config" ou "setup" para manter o codigo relacionado a      todas as configuração do projeto como um todo. e o ponto "." cria um arquivo separado.
+  - boa pratica: nomear arquivo como "config" ou "setup" para manter o codigo relacionado a todas as configurações do projeto como um todo. e o ponto "." cria um arquivo separado.
 
 ## Informações:
 - arquivo manage.py: responsavel por realizar a maioria dos comandos do Django assim como subir o servidor
@@ -92,7 +91,7 @@ def index(request):
 - rodar aplicação: python manage.py runserver
 
 ## RESUMO: Parte inicial do projeto foi concluida e adicionado ao github
-  - Pendencia: Revitar os passos para consolidar conhecimento e melhorar documentação
+  - Pendencia: Revisar os passos para consolidar conhecimento e melhorar documentação
 
 # DIA 3: 29/05 - Lidando com persistencia de dados 
 - criar banco de dados: 
